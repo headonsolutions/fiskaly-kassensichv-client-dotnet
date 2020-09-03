@@ -1,3 +1,9 @@
+# OUT OF MAINTENANCE
+Kranert, 03.09.2020:
+We created this repository to distribute the Fiskaly client to our applications via nuget. In the meantime Fiskaly offers its own nuget package, so we don't need this repository anymore.
+
+https://www.nuget.org/packages/fiskaly-dotnet-sdk/1.2.100
+
 # fiskaly KassenSichV client for .NET Core
 
 The fiskaly KassenSichV client is an HTTP client that is needed<sup>[1](#fn1)</sup> for accessing the [kassensichv.io](https://kassensichv.io) API that implements a cloud-based, virtual **CTSS** (Certified Technical Security System) / **TSE** (Technische Sicherheitseinrichtung) as defined by the German **KassenSichV** ([Kassen­sich­er­ungsver­ord­nung](https://www.bundesfinanzministerium.de/Content/DE/Downloads/Gesetze/2017-10-06-KassenSichV.pdf)).
